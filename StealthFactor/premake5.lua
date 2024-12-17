@@ -44,7 +44,7 @@ filter "configurations:Release"
 	runtime "Release"
 
 filter "platforms:Win*"
-	system "Linux"
+	system "Windows"
 
 filter "platforms:Linux*"
 	system "Linux"
